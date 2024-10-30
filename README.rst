@@ -1,19 +1,7 @@
-Title
+Sale delay multi company
 =======
 
-Description
-==============
-
-Configuration
-=============
-
-Usage
-=====
-Description usage
-
-
-Dependencies
-===============
+Modulo per avere tempo risposta vendite multi company
 
 
 Credits
@@ -27,4 +15,4 @@ Authors
 Contributors
 ~~~~~~~~~~~~
 
-* Moccia Francesco <moccia.f@stesi.consulting>
+* Michele <dicroce.mf@stesi.consulting>

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "",
+    'name': "Sale delay multi company",
     
     'summary': "",
   
@@ -15,7 +15,7 @@
     'website': "http://www.stesi.consulting",
 
     # any module necessary for this one to work correctly
-    'depends': [],
+    'depends': ["product"],
     
     # always loaded
     'data': [],
