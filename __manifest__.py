@@ -10,12 +10,12 @@
 
     'category': '',
   
-    'version': '17.0.0.1',
+    'version': '17.0.0.2',
   
     'website': "http://www.stesi.consulting",
 
     # any module necessary for this one to work correctly
-    'depends': ["product"],
+    'depends': ["product","product_variant_sale_delay"],
     
     # always loaded
     'data': [],
